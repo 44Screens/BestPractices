@@ -9,6 +9,7 @@
  1. [Repetitive or stretchable images](#repetitive-or-stretchable-images)
  1. [Assets with the same shape and different colors](#assets-with-the-same-shape-and-different-colors)
  1. [3D Assets](#3d-assets)
+ 1. [Fonts](#fonts)
 
 ## Introduction
 
@@ -81,3 +82,10 @@ This work best if the image only has one color (white). It can also works with a
 ## 3D Assets
 
 Unity published an [Asset Best Practice guide](https://docs.unity3d.com/Manual/HOWTO-ArtAssetBestPracticeGuide.html) in its manual. It is a good starting point for 3D assets.
+
+
+## Fonts
+
+We need source files of all fonts used in the application, in .ttf or .otf and a guide line indicated which font is used for each title / texts /button /menu /etc. Example :
+
+![Guide line](Images/guideline_fonts.jpg)
