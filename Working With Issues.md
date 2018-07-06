@@ -36,6 +36,16 @@ Here is the important part. In order to provide the best clues about what's goin
 An image is worth a thousand words right? So feel free to add screenshots!
 Simply drag and drop your images from your local hard drive into the issue description, it will upload it.
 
+By default, images are shown full size which is not ideal. A good rule to follow is: if your image is larger than 512x512px, turn it to a link.
+
+To do that, nothing complicated: just remove the exclamation mark (!) before the square brackets. 
+
+This: 
+`![9-slice-1](Images/9-sliced-1.jpg)`
+
+Become this:
+`[9-slice-1](Images/9-sliced-1.jpg)`
+
 To wrap it up, feel free to share any information, even if you're not sure about it. Making assumptions about a bug and it's cause can lead to further reflexions, so don't be shy child!
 
 ### Assignees
