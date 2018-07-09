@@ -46,6 +46,15 @@ This:
 Become this:
 `[9-slice-1](Images/9-sliced-1.jpg)`
 
+#### - Mobile bug report
+
+When Debugging on mobile, we need more information about the device. Please include at least this informations:
+
+>- Brand and model
+>- Screen size in pixels _(ex: 1920x1080px)_
+>- Screen ratio if known _(ex: 16:9)_
+>- Gyroscope/accelerometer _(yes or no)_
+
 To wrap it up, feel free to share any information, even if you're not sure about it. Making assumptions about a bug and it's cause can lead to further reflexions, so don't be shy child!
 
 ### Assignees
