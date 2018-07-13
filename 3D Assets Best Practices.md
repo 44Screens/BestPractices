@@ -4,7 +4,8 @@
 
 1. [Introduction](#introduction)
 2. [Pivot Point](#pivot-point)
-3. [Hierarchy](#hierarchy)
+3. [Unity Package](#Unity-Package)
+4. [Hierarchy](#hierarchy)
 
 ## Introduction
 
@@ -18,9 +19,20 @@ In certain cases, you can move the pivot point at the bottom of the object. It c
 
 ![pivot_point-2](Images/pivot_point-2.jpg)
 
+## Unity Package
+
+One way to facilitate importation is to create a Unity Package of your assets. Your need to launch the version used for the project _(ex: Unity 2018.1.1)_ and then import your model in Unity (simply drag and drop the .FBX file in the unity's __Project__ window).
+
+Here, you can now drag and drop the model from the __Project__ window into the __Scene__ window and check if everything is ok (textures, UVs, pivot points, etc...).
+
+If everything is fine, you can export your asset. Simply click on the root folder containing your 3D model and textures and go to __Assets -> Export Package...__ (top menu). Check if everything you need is in the list and hit __Export...__ . Name it, click __Save__ and you're done!
+
+![unity_package-1](Images/unity_package-1.jpg)
+![unity_package-2](Images/unity_package-2.jpg)
+
 ## Hierarchy
 
-One way to facilitate assets importation is to organised the hierarchy of the file correctly when exporting a UnityPackage. 
+When exporting a UnityPackage it's important to organised the hierarchy of the file correctly. 
 In general, you should follow this pattern :
 
 ->3D Assets (folder)  
