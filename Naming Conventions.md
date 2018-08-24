@@ -16,5 +16,13 @@ Title must be explicit about the project
 
 > Ex: MissionToMars
 
-#### Suffix
+Title must end with a pre-defined suffix. Suffixes are about the platform used for developping.
 
+list of suffixes:
+
+- _Unity
+- _Andoid
+- _iOS
+- _Web
+
+> Ex: MissionToMars_Web
