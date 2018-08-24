@@ -7,6 +7,7 @@ If you have any question or if something is not clear enough, you can create an 
 ## Table of Contents
 
  - [General Good Practices](General%20Good%20Practices.md)
+ - [Naming Conventions](Naming%20Conventions.md)
  - [Graphic Design Best Practices](Graphic%20Design%20Best%20Practices.md)
  - [Game Design Best Practices ](Game%20Design%20Best%20Practices.md)
  - [Working With Issues in GitHub ](Working%20With%20Issues.md)
