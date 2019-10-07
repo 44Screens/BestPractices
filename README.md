@@ -12,6 +12,7 @@ If you have any question or if something is not clear enough, you can create an 
  - [Game Design Best Practices ](Game%20Design%20Best%20Practices.md)
  - [Working With Issues in GitHub ](Working%20With%20Issues.md)
  - [3D Assets Best Practices](3D%20Assets%20Best%20Practices.md)
+ - [Bug Report (FR)](Bug%20Report.md)
  
  ## External Links
  
